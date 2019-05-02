@@ -5,6 +5,7 @@
 ## code
   * [RecQ: A Python Framework for Recommender Systems (TensorFlow Supported)](https://github.com/Coder-Yu/RecQ)
   * [Implementation of Deep Learning based Recommender Algorithms with Tensorflow](https://github.com/cheungdaven/DeepRec)
+  * [An offline evaluation framework for sequence-based recommender systems](https://github.com/D2KLab/sequeval)
 
 
 ## papers
