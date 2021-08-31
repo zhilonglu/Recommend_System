@@ -10,3 +10,6 @@
 
 ## papers
   * [related papers](https://github.com/daicoolb/RecommenderSystem-Paper)
+
+## Open Resources
+  * [RecBole](https://github.com/RUCAIBox/RecBole)
